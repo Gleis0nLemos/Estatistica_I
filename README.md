@@ -1,11 +1,11 @@
 ### Estatística com Python: Frequências e medidas
     Curso realizado na Alura :P
 
-#### Conteúdos aprendidos na AULA 01:
+#### Conteúdos da AULA 02:
 
 ###
-    - Identificar a versão de uma biblioteca do Python.
-    - Ler um dataset no formato CSV e criar um DataFrame pandas, com o conteúdo deste dataset.
-    - Identificar e classificar as variáveis de um dataset como quantitativas ou qualitativas.
-    - As variáveis qualitativas se dividem em ordinais e nominais.
-    - As variáveis quantitativas se dividem em discretas e contínuas.
+    - A criar distribuições de frequências (tabelas de frequências) com a função value_counts() do pandas.
+    - A criar distribuições de frequências, com o cruzamento de duas variáveis, utilizando a função crosstab() do pandas.
+    - A criar distribuições de frequências, com classes personalizadas, utilizando as funções value_counts() e cut() conjuntamente.
+    - A utilizar a regra de Sturges para obter um número de classes ótimo para determinado tamanho de amostra.
+    - A plotar o histograma, que é a representação gráfica de uma distribuição de frequências.
