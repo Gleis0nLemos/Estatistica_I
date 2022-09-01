@@ -1,10 +1,11 @@
 ### Estatística com Python: Frequências e medidas
     Curso realizado na Alura :P
 
-#### Tópicos principais, AULA 03:
+#### AULA 04, foi visto:
 
 ###
-    - Calcular as principais medidas de tendência central: média aritmética, mediana e moda.
-    - Identificar características importantes de uma distribuição, como a presença de assimetria
-      e sua direção a partir da relação entre as medidas de tendência central.
+    - Obter os quartis, decis e percentis de uma distribuição
+        *Também conhecidas como medidas separatrizes, pois dividem uma distribuição em partes iguais.
+
+    - Construir e interpretar um boxplot, com a utilização dos quartis.
 
