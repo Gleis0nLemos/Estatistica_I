@@ -1,11 +1,10 @@
 ### Estatística com Python: Frequências e medidas
     Curso realizado na Alura :P
 
-#### Conteúdos da AULA 02:
+#### Tópicos principais, AULA 03:
 
 ###
-    - A criar distribuições de frequências (tabelas de frequências) com a função value_counts() do pandas.
-    - A criar distribuições de frequências, com o cruzamento de duas variáveis, utilizando a função crosstab() do pandas.
-    - A criar distribuições de frequências, com classes personalizadas, utilizando as funções value_counts() e cut() conjuntamente.
-    - A utilizar a regra de Sturges para obter um número de classes ótimo para determinado tamanho de amostra.
-    - A plotar o histograma, que é a representação gráfica de uma distribuição de frequências.
+    - Calcular as principais medidas de tendência central: média aritmética, mediana e moda.
+    - Identificar características importantes de uma distribuição, como a presença de assimetria
+      e sua direção a partir da relação entre as medidas de tendência central.
+
