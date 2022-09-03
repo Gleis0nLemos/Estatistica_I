@@ -4,8 +4,11 @@
 #### AULA 04, foi visto:
 
 ###
-    - Obter os quartis, decis e percentis de uma distribuição
-        *Também conhecidas como medidas separatrizes, pois dividem uma distribuição em partes iguais.
+    - A obter três medidas de dispersão importantes. O desvio médio absoluto, a variância e o desvio padrão.
 
-    - Construir e interpretar um boxplot, com a utilização dos quartis.
+    - Que, embora as medidas de posição forneçam uma sumarização bastante importante dos dados, elas podem não
+    ser suficientes para caracterizar conjuntos distintos, especialmente quando as observações de determinada
+    distribuição apresentarem dados muito dispersos.
+      *Por isso, para complementar nossas análises e poder caracterizar melhor o conjunto de
+       dados, utilizamos as medidas de dispersão.
 
