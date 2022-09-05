@@ -1,9 +1,17 @@
 ### Estatística com Python: Frequências e medidas
     Curso realizado na Alura :P
 
-#### AULA 06, foi realizado:
+#### Sumário das aulas:
 
 ###
-    - A realizar uma análise descritiva em um conjunto de dados.
-    - Funcionalidades extras da função crosstab() com o parâmetro aggfunc.
-    - A construir boxplots com o cruzamento de três informações distintas.
+    - Qual o seu tipo de dado?
+###
+    - Distribuição de frequências.
+###
+    - Medidas de tendência central.
+###
+    - Medidas separatrizes.
+###
+    - Medidas de dispersão.
+###
+    - Projeto final.
