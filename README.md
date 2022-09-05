@@ -1,14 +1,9 @@
 ### Estatística com Python: Frequências e medidas
     Curso realizado na Alura :P
 
-#### AULA 04, foi visto:
+#### AULA 06, foi realizado:
 
 ###
-    - A obter três medidas de dispersão importantes. O desvio médio absoluto, a variância e o desvio padrão.
-
-    - Que, embora as medidas de posição forneçam uma sumarização bastante importante dos dados, elas podem não
-    ser suficientes para caracterizar conjuntos distintos, especialmente quando as observações de determinada
-    distribuição apresentarem dados muito dispersos.
-      *Por isso, para complementar nossas análises e poder caracterizar melhor o conjunto de
-       dados, utilizamos as medidas de dispersão.
-
+    - A realizar uma análise descritiva em um conjunto de dados.
+    - Funcionalidades extras da função crosstab() com o parâmetro aggfunc.
+    - A construir boxplots com o cruzamento de três informações distintas.
